@@ -39,7 +39,7 @@ This repository serves as a quick reference of some useful commands.
 | Command | Description |
 | --- | --- |
 | `git config --global alias.[name][command]` | Create alias to commands |
-| `git commit --amed -m "[new message]"` | Change message of last commit |
+| `git commit --amend -m "[new message]"` | Change message of last commit |
 
 ## Network
 | Command | Description |
