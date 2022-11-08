@@ -31,6 +31,7 @@ This repository serves as a quick reference of some useful commands.
 | `df -h` | Storage usage of mounted partitions |
 | `tree` | View the directory structure for a path |
 | `du` | See disk usage of directory's contens |
+| `du -sh [path]` | Getting the Size of a Directory |
 | `du -h [path] 'pipe' sort -rh 'pipe' head -5 ` | organize the 5 largest volumes |
 | `lsof -i -P -n 'pipe' grep LISTEN ` | To see open ports |
 | `lsof -i:[port]` | See a specific port |
