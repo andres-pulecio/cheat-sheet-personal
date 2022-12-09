@@ -35,6 +35,8 @@ This repository serves as a quick reference of some useful commands.
 | `du -h [path] 'pipe' sort -rh 'pipe' head -5 ` | organize the 5 largest volumes |
 | `lsof -i -P -n 'pipe' grep LISTEN ` | To see open ports |
 | `lsof -i:[port]` | See a specific port |
+| `sudo ps aux 'pipe' grep -i [word]` | Search process |
+| `nslookup [host]` | Mapping between domain name and IP address |
 
 ## GIT
 | Command | Description |
