@@ -1,4 +1,4 @@
-# cheat Sheet Personal
+# Cheat Sheet Personal
 This repository serves as a quick reference of some useful commands.
 
 **Replace 'pipe' by ➞ |**
