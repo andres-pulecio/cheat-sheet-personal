@@ -9,6 +9,7 @@ This repository serves as a quick reference of some useful commands.
 | `touch` | Create a new empty file |
 | `cat > [file]` | Create a new file with the text you type |
 | `ln -s [path to be linked][path to create]` | Create a new file with the text you type |
+| `$\n` | Line break - In Visual Code mark(.*) |
 
 ## Search for files and directories
 | Command | Description |
