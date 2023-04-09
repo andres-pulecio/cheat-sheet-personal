@@ -17,6 +17,7 @@ This repository serves as a quick reference of some useful commands.
 | `find [directory] -name '[word]'` | Search for a file or directory based on exact name |
 | `find [directory] -iname '[word]'` | Search for a file or directory based on name ignore case |
 | `find [directory] -iname '[word]' -exec [command]` | Search for a file or directory based on name ignore case and execute a command |
+| `grep -r [word-to-search-for] /path/to/directory/` | Search for a word or phrase in a series of files |
 
 ## Administration commands
 | Command | Description |
