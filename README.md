@@ -45,6 +45,22 @@ This repository serves as a quick reference of some useful commands.
 | --- | --- |
 | `git config --global alias.[name][command]` | Create alias to commands |
 | `git commit --amend -m "[new message]"` | Change message of last commit |
+| Alias  | Command                                              | Description                        |
+| gst    | `git status`                                         | Show the working tree status       |
+| gl     | `git pull`                                           | Fetch from and integrate with remote |
+| gp     | `git push`                                           | Update remote refs                 |
+| gd     | `git diff`                                           | Show changes between commits/files |
+| gau    | `git add --update`                                   | Add updated files to the index     |
+| gc     | `git commit -v`                                      | Commit with verbose output         |
+| gca    | `git commit -v -a`                                   | Commit all changes with verbose    |
+| gb     | `git branch`                                         | List, create, or delete branches   |
+| gba    | `git branch -a`                                      | List all branches                  |
+| gco    | `git checkout`                                       | Switch branches or restore files   |
+| gcob   | `git checkout -b`                                    | Create and switch to a new branch  |
+| gcot   | `git checkout -t`                                    | Checkout and track a remote branch |
+| gcotb  | `git checkout --track -b`                            | Create and track a new branch      |
+| glog   | `git log`                                            | Show commit logs                   |
+| glogp  | `git log --pretty=format:"%h %s" --graph`            | Pretty log with graph              |
 
 ## Network
 | Command | Description |
